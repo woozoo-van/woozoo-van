@@ -6,6 +6,12 @@ TIT
 
 ---
 
+- 2024.04.01
+- - [ :blue_heart: ] 건강검진, 대청소
+- - [ :blue_heart: ] 
+
+---
+
 - 2024.03.31
 - - [ :blue_heart: ] 프로그래머스 코딩테스트 기초 JS 5문제 풀기
 - - [ :blue_heart: ] Notion JS 문법과 구조 정리
